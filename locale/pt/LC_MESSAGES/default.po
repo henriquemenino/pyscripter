@@ -3003,119 +3003,119 @@ msgstr ""
 #. Programmer's name for it: SExportShortcuts
 #: dmCommands.dfm:4506 dmCommands.dfm:4507 StringResources.pas:123
 msgid "Export Shortcuts"
-msgstr ""
+msgstr "Exportar Atalhos"
 
 #. CommandsDataModule..actlMain..actImportHighlighters..Caption
 #. Programmer's name for it: SImportHighlighters
 #: dmCommands.dfm:4512 StringResources.pas:118
 msgid "Import Highlighters"
-msgstr ""
+msgstr "Importar Marcadores"
 
 #. CommandsDataModule..actlMain..actImportHighlighters..Hint
 #: dmCommands.dfm:4513
 msgid "Import Syntax Highlighters"
-msgstr ""
+msgstr "Importar Marcadores de Sintaxe"
 
 #. CommandsDataModule..actlMain..actExportHighlighters..Caption
 #. Programmer's name for it: SExportHighlighters
 #: dmCommands.dfm:4518 StringResources.pas:122
 msgid "Export Highlighters"
-msgstr ""
+msgstr "Exportar Marcadores"
 
 #. CommandsDataModule..actlMain..actExportHighlighters..Hint
 #: dmCommands.dfm:4519
 msgid "Export Syntax Highlighters"
-msgstr ""
+msgstr "Exportar Marcadores de Sintaxe"
 
 #. CommandsDataModule..actlMain..actSearchReplaceNow..Hint
 #: dmCommands.dfm:4527
 msgid "Replace with existing  settings"
-msgstr ""
+msgstr "Substituir por configurações existentes"
 
 #. CommandsDataModule..actlMain..actSearchHighlight..Caption
 #: dmCommands.dfm:4534
 msgid "&Highlight Search Text"
-msgstr ""
+msgstr "Buscar Texto Marcado"
 
 #. CommandsDataModule..actlMain..actSearchHighlight..Hint
 #: dmCommands.dfm:4536
 msgid "Highlight the search text in the current editor"
-msgstr ""
+msgstr "Marcar o texto pesquisado atualmente no editor"
 
 #. CommandsDataModule..actlMain..actEditWordWrap..Caption
 #: dmCommands.dfm:4543
 msgid "Word &Wrap"
-msgstr ""
+msgstr "Quebrar Palavras"
 
 #. CommandsDataModule..actlMain..actEditWordWrap..Hint
 #: dmCommands.dfm:4545
 msgid "Turn word wrap on/off"
-msgstr ""
+msgstr "Ligar/Desligar quebra de palavras"
 
 #. CommandsDataModule..actlMain..actSearchGoToDebugLine..Caption
 #: dmCommands.dfm:4551
 msgid "Go To &Debugger Position"
-msgstr ""
+msgstr "Ir para a Posição do &Debugger"
 
 #. CommandsDataModule..actlMain..actSearchGoToDebugLine..Hint
 #: dmCommands.dfm:4553
 msgid "Go to the curent position of the debugger"
-msgstr ""
+msgstr "Ir para a posição atual do debugger"
 
 #. CommandsDataModule..actlMain..actHelpWebProjectHome..Caption
 #: dmCommands.dfm:4558
 msgid "&Project Home"
-msgstr ""
+msgstr "Home do &Projeto"
 
 #. CommandsDataModule..actlMain..actHelpWebProjectHome..Hint
 #: dmCommands.dfm:4560
 msgid "Go to the project home page"
-msgstr ""
+msgstr "Ir para a página home do projeto"
 
 #. CommandsDataModule..actlMain..actHelpWebGroupSupport..Caption
 #: dmCommands.dfm:4566
 msgid "&Group Support"
-msgstr ""
+msgstr "&Grupo de Suporte"
 
 #. CommandsDataModule..actlMain..actHelpWebGroupSupport..Hint
 #: dmCommands.dfm:4568
 msgid "Go to the PyScripter Internet group"
-msgstr ""
+msgstr "Ir para o grupo de Intenert do PyScripter"
 
 #. CommandsDataModule..actlMain..actFileCloseAllOther..Caption
 #: dmCommands.dfm:4574
 msgid "Close All &Other"
-msgstr ""
+msgstr "Fechar Todos os &Outros"
 
 #. CommandsDataModule..actlMain..actFileCloseAllOther..Hint
 #: dmCommands.dfm:4576
 msgid "Close all files except the active one"
-msgstr ""
+msgstr "Fechar todos arquivos exceto os ativos"
 
 #. CommandsDataModule..actlMain..actEditCopyFileName..Caption
 #: dmCommands.dfm:4581
 msgid "Copy File Name"
-msgstr ""
+msgstr "Copiar Nome do Arquivo"
 
 #. CommandsDataModule..actlMain..actEditCopyFileName..Hint
 #: dmCommands.dfm:4584
 msgid "Copy file name of active file to clipboard"
-msgstr ""
+msgstr "Copiar nome do arquivo ativo para a Área de Tranferência"
 
 #. CommandsDataModule..actlMain..actToolsEditStartupScripts..Caption
 #: dmCommands.dfm:4590
 msgid "Edit Start&up Scripts"
-msgstr ""
+msgstr "Editar Scripts Iniciais"
 
 #. CommandsDataModule..actlMain..actToolsEditStartupScripts..Hint
 #: dmCommands.dfm:4593
 msgid "Edit PyScripter initialization files"
-msgstr ""
+msgstr "Editar arquivos de inicialização do PyScripter"
 
 #. BreakPointsWindow..Caption
 #: frmBreakPoints.dfm:5
 msgid "Breakpoints"
-msgstr ""
+msgstr "Breakpoints"
 
 #. BreakPointsWindow..FGPanel..BreakPointsView......WideText
 #. CallStackWindow..FGPanel..CallStackView......WideText
@@ -3124,7 +3124,7 @@ msgstr ""
 #: frmBreakPoints.dfm:85 frmCallStack.dfm:89 frmMessages.dfm:91
 #: frmToDo.dfm:191
 msgid "File Name"
-msgstr ""
+msgstr "Nome do Arquivo"
 
 #. BreakPointsWindow..FGPanel..BreakPointsView......WideText
 #. CallStackWindow..FGPanel..CallStackView......WideText
@@ -3133,45 +3133,45 @@ msgstr ""
 #: frmBreakPoints.dfm:90 frmCallStack.dfm:94 frmMessages.dfm:96
 #: frmToDo.dfm:199
 msgid "Line"
-msgstr ""
+msgstr "Linha"
 
 #. BreakPointsWindow..FGPanel..BreakPointsView......WideText
 #: frmBreakPoints.dfm:95
 msgid "Condition"
-msgstr ""
+msgstr "Condição"
 
 #. BreakPointsWindow..TBXPopupMenu..mnSetCondition..Caption
 #: frmBreakPoints.dfm:109
 msgid "Set &Condition..."
-msgstr ""
+msgstr "Configurar &Condição"
 
 #. BreakPointsWindow..TBXPopupMenu..mnClear..Caption
 #: frmBreakPoints.dfm:115
 msgid "C&lear"
-msgstr ""
+msgstr "Limpar"
 
 #. BreakPointsWindow..TBXPopupMenu..mnClear..Hint
 #: frmBreakPoints.dfm:116
 msgid "Clear|Clear selected breakpoint"
-msgstr ""
+msgstr "Limpar|Limpar breakpoint selecionado"
 
 #. BreakPointsWindow..TBXPopupMenu..mnCopyToClipboard..Caption
 #. MessagesWindow..MsgsActionList..actCopyToClipboard..Caption
 #. WatchesWindow..TBXPopupMenu..mnCopyToClipboard..Caption
 #: frmBreakPoints.dfm:125 frmMessages.dfm:213 frmWatches.dfm:128
 msgid "Co&py to Clipboard"
-msgstr ""
+msgstr "Co&piar para a Área de Transferência"
 
 #. BreakPointsWindow..TBXPopupMenu..mnCopyToClipboard..Hint
 #. WatchesWindow..TBXPopupMenu..mnCopyToClipboard..Hint
 #: frmBreakPoints.dfm:126 frmWatches.dfm:129
 msgid "Copy to clipboard"
-msgstr ""
+msgstr "Copiar para a Área de Transferência"
 
 #. CallStackWindow..Caption
 #: frmCallStack.dfm:5
 msgid "Call Stack"
-msgstr ""
+msgstr "Pilha de Chamadas"
 
 #. CallStackWindow..FGPanel..CallStackView......WideText
 #. Programmer's name for it: SYNS_FunctionName
@@ -3179,7 +3179,7 @@ msgstr ""
 #: frmCallStack.dfm:84 SynHighlighterPython.pas:241
 #: SynHighlighterPython.pas:244
 msgid "Function Name"
-msgstr ""
+msgstr "Nome da Função"
 
 #. CallStackWindow..actlCallStack..actPreviousFrame..Category
 #. CallStackWindow..actlCallStack..actNextFrame..Category
@@ -3220,268 +3220,268 @@ msgstr ""
 #: frmPyIDEMain.dfm:2206 frmPyIDEMain.dfm:2217 frmPyIDEMain.dfm:2342
 #: frmPyIDEMain.dfm:2369
 msgid "Run"
-msgstr ""
+msgstr "Executar"
 
 #. CallStackWindow..actlCallStack..actPreviousFrame..Caption
 #: frmCallStack.dfm:107
 msgid "Previous Frame"
-msgstr ""
+msgstr "Frame Anterior"
 
 #. CallStackWindow..actlCallStack..actPreviousFrame..Hint
 #: frmCallStack.dfm:111
 msgid "Select previous (older) frame"
-msgstr ""
+msgstr "Selecione frame anterior (mais velho)"
 
 #. CallStackWindow..actlCallStack..actNextFrame..Caption
 #: frmCallStack.dfm:117
 msgid "Next Frame"
-msgstr ""
+msgstr "Próximo Frame"
 
 #. CallStackWindow..actlCallStack..actNextFrame..Hint
 #: frmCallStack.dfm:121
 msgid "Select next (newer) frame"
-msgstr ""
+msgstr "Selecione o próximo frame (mais novo)"
 
 #. CodeExplorerWindow..Caption
 #: frmCodeExplorer.dfm:5 dmCommands.pas:2121
 msgid "Code Explorer"
-msgstr ""
+msgstr "Explorador de Código"
 
 #. CodeExplorerWindow..CEPopupMenu..mnExpandAll..Caption
 #. ProjectExplorerWindow..ProjectActionList..actProjectExpandAll..Caption
 #: frmCodeExplorer.dfm:99 frmProjectExplorer.dfm:209
 msgid "&Expand All"
-msgstr ""
+msgstr "&Expandir Tudo"
 
 #. CodeExplorerWindow..CEPopupMenu..mnExpandAll..Hint
 #: frmCodeExplorer.dfm:100
 msgid "Expand all nodes"
-msgstr ""
+msgstr "Expandir todos nós"
 
 #. CodeExplorerWindow..CEPopupMenu..nCollapseAll..Caption
 #. ProjectExplorerWindow..ProjectActionList..actProjectCollapseAll..Caption
 #. UnitTestWindow..DialogActions..actCollapseAll..Caption
 #: frmCodeExplorer.dfm:106 frmProjectExplorer.dfm:218 frmUnitTests.dfm:588
 msgid "&Collapse All"
-msgstr ""
+msgstr "Re&colher Tudo"
 
 #. CodeExplorerWindow..CEPopupMenu..nCollapseAll..Hint
 #: frmCodeExplorer.dfm:107
 msgid "Collapse all nodes"
-msgstr ""
+msgstr "Recolher todos nós"
 
 #. CodeExplorerWindow..CEPopupMenu..mnAlphaSort..Caption
 #: frmCodeExplorer.dfm:115
 msgid "Alpha Sort"
-msgstr ""
+msgstr "Organizar Alfabeticamente"
 
 #. CodeExplorerWindow..CEPopupMenu..mnAlphaSort..Hint
 #: frmCodeExplorer.dfm:116
 msgid "Sort Alphabetically"
-msgstr ""
+msgstr "Organizar Alfabeticamente"
 
 #. CodeExplorerWindow..CEPopupMenu..mnFollowEditor..Caption
 #: frmCodeExplorer.dfm:122
 msgid "Follow Editor"
-msgstr ""
+msgstr "Editar Seguinte"
 
 #. CodeExplorerWindow..CEPopupMenu..mnFollowEditor..Hint
 #: frmCodeExplorer.dfm:123
 msgid "Move selection to match the editor position"
-msgstr ""
+msgstr "Mover seleção para posição encontrada no editor"
 
 #. CodeExplorerWindow..CEPopupMenu..mnShowSelection..Caption
 #: frmCodeExplorer.dfm:130
 msgid "Show Selection"
-msgstr ""
+msgstr "Exibir Seleção"
 
 #. CodeExplorerWindow..CEPopupMenu..mnShowSelection..Hint
 #: frmCodeExplorer.dfm:131
 msgid "Show selected node in editor"
-msgstr ""
+msgstr "Exibir modo selecionado no editor"
 
 #. CodeExplorerWindow..CENodePopUpMenu..mnFindDefinition..Caption
 #. CodeExplorerWindow..CENodePopUpMenu..mnFindDefinition..Hint
 #: frmCodeExplorer.dfm:142 frmCodeExplorer.dfm:143
 msgid "Find Definition"
-msgstr ""
+msgstr "Localizar Definição"
 
 #. CodeExplorerWindow..CENodePopUpMenu..mnFindReferences..Caption
 #. CodeExplorerWindow..CENodePopUpMenu..mnFindReferences..Hint
 #: frmCodeExplorer.dfm:148 frmCodeExplorer.dfm:149
 msgid "Find References"
-msgstr ""
+msgstr "Localizar Referências"
 
 #. CodeExplorerWindow..CENodePopUpMenu..mnHighlight..Caption
 #: frmCodeExplorer.dfm:156
 msgid "Highlight"
-msgstr ""
+msgstr "Marcar"
 
 #. CodeExplorerWindow..CENodePopUpMenu..mnHighlight..Hint
 #: frmCodeExplorer.dfm:157
 msgid "Highlight References"
-msgstr ""
+msgstr "Marcar Referências"
 
 #. OutputWindow..OutputPopup..RunningProcess..Caption
 #: frmCommandOutput.dfm:87
 msgid "Running Process"
-msgstr ""
+msgstr "Executar Processos"
 
 #. OutputWindow..OutputActions..actCopy..Caption
 #: frmCommandOutput.dfm:126
 msgid "Co&py"
-msgstr ""
+msgstr "Co&piar"
 
 #. OutputWindow..OutputActions..actCopy..Hint
 #. MessagesWindow..MsgsActionList..actCopyToClipboard..Hint
 #: frmCommandOutput.dfm:127 frmMessages.dfm:214
 msgid "Copy contents to Clipboard"
-msgstr ""
+msgstr "Copiar conteúdo para a Área de Transferência"
 
 #. OutputWindow..OutputActions..actOutputFont..Caption
 #: frmCommandOutput.dfm:132
 msgid "Font..."
-msgstr ""
+msgstr "Fonte..."
 
 #. OutputWindow..OutputActions..actOutputFont..Hint
 #: frmCommandOutput.dfm:133
 msgid "Select font"
-msgstr ""
+msgstr "Selecionar fonte"
 
 #. OutputWindow..OutputActions..actSelectColor..Caption
 #: frmCommandOutput.dfm:138
 msgid "Background Color..."
-msgstr ""
+msgstr "Cor de Fundo..."
 
 #. OutputWindow..OutputActions..actSelectColor..Hint
 #: frmCommandOutput.dfm:139
 msgid "Select background color"
-msgstr ""
+msgstr "Selecionar cor de fundo"
 
 #. OutputWindow..OutputActions..actClearOutput..Caption
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..TiClear..Caption
 #: frmCommandOutput.dfm:144 frmRegExpTester.dfm:77
 msgid "Clear"
-msgstr ""
+msgstr "Limpar"
 
 #. OutputWindow..OutputActions..actClearOutput..Hint
 #: frmCommandOutput.dfm:145
 msgid "Clear output"
-msgstr ""
+msgstr "Limpar saída"
 
 #. OutputWindow..OutputActions..actToolTerminate..Caption
 #: frmCommandOutput.dfm:150
 msgid "&Terminate"
-msgstr ""
+msgstr "&Terminar"
 
 #. OutputWindow..OutputActions..actToolTerminate..Hint
 #: frmCommandOutput.dfm:151
 msgid "Terminate running tool (unsafe)"
-msgstr ""
+msgstr "Terminar execução da ferramenta (não seguro)"
 
 #. OutputWindow..OutputActions..actToolClose..Hint
 #: frmCommandOutput.dfm:157
 msgid "Close running tool"
-msgstr ""
+msgstr "Fechar execução da ferramenta"
 
 #. OutputWindow..OutputActions..actToolQuit..Caption
 #: frmCommandOutput.dfm:162
 msgid "&Quit"
-msgstr ""
+msgstr "Sair"
 
 #. OutputWindow..OutputActions..actToolQuit..Hint
 #: frmCommandOutput.dfm:163
 msgid "Post quit message to running tool"
-msgstr ""
+msgstr "Enviar mensagem de saída para ferramenta em execução"
 
 #. OutputWindow..OutputActions..actToolStopWaiting..Caption
 #: frmCommandOutput.dfm:168
 msgid "Stop &Waiting"
-msgstr ""
+msgstr "Parar Espera"
 
 #. OutputWindow..OutputActions..actToolStopWaiting..Hint
 #: frmCommandOutput.dfm:169
 msgid "Stop waiting for running tool"
-msgstr ""
+msgstr "Parar espera para ferramenta em execução"
 
 #. DisForm..Caption
 #: frmDisassemlyView.dfm:5
 msgid "Dissassemby View"
-msgstr ""
+msgstr "Ver Desmontagem"
 
 #. DocForm..Caption
 #. WebPreviewForm..Caption
 #: frmDocView.dfm:5 frmWebPreview.dfm:5
 msgid "Documentation"
-msgstr ""
+msgstr "Documentação"
 
 #. DocForm..TBXDock1..TBXToolbar1..ToolButtonBack..Hint
 #. FileExplorerWindow..FileExplorerActions..actGoBack..Hint
 #. WebPreviewForm..TBXDock1..TBXToolbar1..ToolButtonBack..Hint
 #: frmDocView.dfm:46 frmFileExplorer.dfm:303 frmWebPreview.dfm:45
 msgid "Go Back"
-msgstr ""
+msgstr "Voltar"
 
 #. DocForm..TBXDock1..TBXToolbar1..ToolButtonForward..Hint
 #. FileExplorerWindow..FileExplorerActions..actGoForward..Hint
 #. WebPreviewForm..TBXDock1..TBXToolbar1..ToolButtonForward..Hint
 #: frmDocView.dfm:51 frmFileExplorer.dfm:311 frmWebPreview.dfm:50
 msgid "Go Forward"
-msgstr ""
+msgstr "Avançar"
 
 #. DocForm..TBXDock1..TBXToolbar1..TBXItem3..Hint
 #. WebPreviewForm..TBXDock1..TBXToolbar1..TBXItem3..Hint
 #: frmDocView.dfm:58 frmWebPreview.dfm:57
 msgid "Stop"
-msgstr ""
+msgstr "Parar"
 
 #. DocForm..TBXDock1..TBXToolbar1..TBXItem7..Hint
 #. WebPreviewForm..TBXDock1..TBXToolbar1..TBXItem7..Hint
 #: frmDocView.dfm:82 frmWebPreview.dfm:81
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #. EditorForm..Caption
 #: frmEditor.dfm:4 dmCommands.pas:2149
 msgid "Editor"
-msgstr ""
+msgstr "Editor"
 
 #. EditorForm..FGPanel..ViewsTabControl..tabSource..Caption
 #. EditorForm..FGPanel..ViewsTabControl..tbshSource..Caption
 #. Programmer's name for it: SSourceTabCaption
 #: frmEditor.dfm:44 frmEditor.dfm:67 StringResources.pas:134
 msgid "Source"
-msgstr ""
+msgstr "Sonte"
 
 #. EditorForm..FGPanel..ViewsTabControl..tbiUpdateView..Caption
 #. EditorForm..pmnuViewsTab..mnUpdateView..Caption
 #: frmEditor.dfm:51 frmEditor.dfm:406
 msgid "Update View"
-msgstr ""
+msgstr "Visualizar Atualização"
 
 #. EditorForm..FGPanel..ViewsTabControl..tbiUpdateView..Hint
 #. EditorForm..pmnuViewsTab..mnUpdateView..Hint
 #: frmEditor.dfm:52 frmEditor.dfm:407
 msgid "Update View|Update the selected view"
-msgstr ""
+msgstr "Visualizar Atuaização|Atualizar visão selecionada"
 
 #. EditorForm..FGPanel..ViewsTabControl..tbiCloseTab..Caption
 #. EditorForm..pmnuViewsTab..mnCloseTab..Caption
 #: frmEditor.dfm:57 frmEditor.dfm:412
 msgid "Close Tab"
-msgstr ""
+msgstr "Fechar Aba"
 
 #. EditorForm..FGPanel..ViewsTabControl..tbiCloseTab..Hint
 #. EditorForm..pmnuViewsTab..mnCloseTab..Hint
 #: frmEditor.dfm:58 frmEditor.dfm:413
 msgid "Close active tab"
-msgstr ""
+msgstr "Fechar aba ativa"
 
 #. EditorForm..pmnuEditor..mnSourceCode..Caption
 #. PyIDEMainForm..TBXDockTop..MainMenu..EditMenu..mnSourceCode..Caption
 #: frmEditor.dfm:378 frmPyIDEMain.dfm:575
 msgid "&Source Code"
-msgstr ""
+msgstr "Código Fonte"
 
 #. FileExplorerWindow..Caption
 #. FileExplorerWindow..FGPanel..FileExplorerTree..ShellContextSubMenuCaption
@@ -3500,116 +3500,116 @@ msgstr ""
 #: frmFileExplorer.dfm:333 frmFileExplorer.dfm:343 frmFileExplorer.dfm:351
 #: frmFileExplorer.dfm:358 frmFileExplorer.dfm:365 frmFileExplorer.dfm:372
 msgid "File Explorer"
-msgstr ""
+msgstr "Explorador de Arquivos"
 
 #. FileExplorerWindow..FGPanel..ExplorerDock..ExplorerToolbar..TBXSubmenuItem1..tbiBrowsePath..Caption
 #. FileExplorerWindow..ExplorerPopUp..mnBrowsePath..Caption
 #: frmFileExplorer.dfm:135 frmFileExplorer.dfm:210
 msgid "Browse Path"
-msgstr ""
+msgstr "Navegar pelo Caminho"
 
 #. FileExplorerWindow..FGPanel..ExplorerDock..ExplorerToolbar..TBXSubmenuItem1..mnFavorites..Caption
 #: frmFileExplorer.dfm:139
 msgid "&Favorites"
-msgstr ""
+msgstr "&Favoritos"
 
 #. FileExplorerWindow..FGPanel..ExplorerDock..ExplorerToolbar..TBXSubmenuItem1..mnFavorites..TBXItem7..Caption
 #. FileExplorerWindow..FileExplorerActions..actAddToFavorites..Caption
 #: frmFileExplorer.dfm:145 frmFileExplorer.dfm:366
 msgid "Add to &Favorites"
-msgstr ""
+msgstr "Adicionar aos &Favoritos"
 
 #. FileExplorerWindow..FGPanel..ExplorerDock..ExplorerToolbar..TBXSubmenuItem1..mnFavorites..TBXItem7..Hint
 #. FileExplorerWindow..FileExplorerActions..actAddToFavorites..Hint
 #: frmFileExplorer.dfm:146 frmFileExplorer.dfm:368
 msgid "Add current path to Favorites"
-msgstr ""
+msgstr "Adicionar caminho atual aos Favoritos"
 
 #. FileExplorerWindow..FGPanel..ExplorerDock..ExplorerToolbar..TBXSubmenuItem1..mnFavorites..TBXItem2..Caption
 #. FileExplorerWindow..FileExplorerActions..actManageFavorites..Caption
 #: frmFileExplorer.dfm:151 frmFileExplorer.dfm:359
 msgid "&Manage Favorites..."
-msgstr ""
+msgstr "Gerenciar Favoritos"
 
 #. FileExplorerWindow..FGPanel..ExplorerDock..ExplorerToolbar..TBXSubmenuItem1..mnFavorites..TBXItem2..Hint
 #. FileExplorerWindow..FileExplorerActions..actManageFavorites..Hint
 #: frmFileExplorer.dfm:152 frmFileExplorer.dfm:361
 msgid "Manage favourite paths"
-msgstr ""
+msgstr "Gerenciar caminhos favoritos"
 
 #. FileExplorerWindow..FGPanel..ExplorerDock..ExplorerToolbar..TBXSubmenuItem1..TBXSubmenuItem3..Caption
 #. FileExplorerWindow..ExplorerPopUp..mnPythonPath..Caption
 #: frmFileExplorer.dfm:158 frmFileExplorer.dfm:239
 msgid "Python Path"
-msgstr ""
+msgstr "Caminho do Python"
 
 #. FileExplorerWindow..FGPanel..ExplorerDock..ExplorerToolbar..TBXSubmenuItem1..tbiPythonPath..Caption
 #. FileExplorerWindow..ExplorerPopUp..mnManagePythonPath..Caption
 #: frmFileExplorer.dfm:165 frmFileExplorer.dfm:245
 msgid "Manage Python &Path..."
-msgstr ""
+msgstr "Gerenciar Caminho do &Python"
 
 #. FileExplorerWindow..ExplorerPopUp..mnBrowsePath..Desktop..Caption
 #: frmFileExplorer.dfm:212
 msgid "Desktop"
-msgstr ""
+msgstr "Área de Trabalho"
 
 #. FileExplorerWindow..ExplorerPopUp..mnBrowsePath..MyComputer..Caption
 #: frmFileExplorer.dfm:216
 msgid "My &Computer"
-msgstr ""
+msgstr "Meu &Computador"
 
 #. FileExplorerWindow..ExplorerPopUp..mnBrowsePath..MyDocuments..Caption
 #: frmFileExplorer.dfm:220
 msgid "My &Documents"
-msgstr ""
+msgstr "Meus &Documentos"
 
 #. FileExplorerWindow..ExplorerPopUp..mnBrowsePath..CurrentDirectory..Caption
 #: frmFileExplorer.dfm:224
 msgid "Current Directory"
-msgstr ""
+msgstr "Pasta Atual"
 
 #. FileExplorerWindow..ExplorerPopUp..mnBrowsePath..ActiveScript..Caption
 #: frmFileExplorer.dfm:228
 msgid "Active Script"
-msgstr ""
+msgstr "Script Ativo"
 
 #. FileExplorerWindow..ExplorerPopUp..TBXSubmenuItem2..Caption
 #: frmFileExplorer.dfm:233
 msgid "Favorites"
-msgstr ""
+msgstr "Favoritos"
 
 #. FileExplorerWindow..ExplorerPopUp..mnChangeFilter..Caption
 #: frmFileExplorer.dfm:254
 msgid "&Change Filter..."
-msgstr ""
+msgstr "Mudar Filtro..."
 
 #. FileExplorerWindow..ShellContextPopUp..ExploreHere..Caption
 #. FileExplorerWindow..FileExplorerActions..actExploreHere..Caption
 #: frmFileExplorer.dfm:273 frmFileExplorer.dfm:352
 msgid "&Explore Here"
-msgstr ""
+msgstr "&Explorar Aqui"
 
 #. FileExplorerWindow..ShellContextPopUp..ExploreHere..Hint
 #. FileExplorerWindow..FileExplorerActions..actExploreHere..Hint
 #: frmFileExplorer.dfm:275 frmFileExplorer.dfm:354
 msgid "Set the Root of the File Manager to this folder"
-msgstr ""
+msgstr "Configurar a Raiz do Gerenciador de Arquivos para esta pasta"
 
 #. FileExplorerWindow..FileExplorerActions..actGoBack..Caption
 #: frmFileExplorer.dfm:301
 msgid "&Back"
-msgstr ""
+msgstr "Voltar"
 
 #. FileExplorerWindow..FileExplorerActions..actGoForward..Caption
 #: frmFileExplorer.dfm:309
 msgid "&Forward"
-msgstr ""
+msgstr "&Avançar"
 
 #. FileExplorerWindow..FileExplorerActions..actGoUp..Hint
 #: frmFileExplorer.dfm:319
 msgid "Up|Show the parent folder"
-msgstr ""
+msgstr "Acima|Exibbir a pasta pai"
 
 #. FileExplorerWindow..FileExplorerActions..actRefresh..Caption
 #. FindResultsWindow..Actions..actFileRefresh..Caption
@@ -3618,125 +3618,125 @@ msgstr ""
 #: frmFileExplorer.dfm:325 frmFindResults.dfm:281 frmToDo.dfm:517
 #: frmUnitTests.dfm:539
 msgid "&Refresh"
-msgstr ""
+msgstr "Atualiza&r"
 
 #. FileExplorerWindow..FileExplorerActions..actRefresh..Hint
 #: frmFileExplorer.dfm:327
 msgid "Refresh|Refresh File Explorer"
-msgstr ""
+msgstr "Atualizar|Atualizar Explorador de Arquivos"
 
 #. FileExplorerWindow..FileExplorerActions..actEnableFilter..Caption
 #: frmFileExplorer.dfm:335
 msgid "Enable &Filter"
-msgstr ""
+msgstr "Habilitar &Filtro"
 
 #. FileExplorerWindow..FileExplorerActions..actEnableFilter..Hint
 #: frmFileExplorer.dfm:338
 msgid "Enable Filter|Select to show only Python files"
-msgstr ""
+msgstr "Habilitar Filtro|Selecionar exibir somente arquivos do Python"
 
 #. FileExplorerWindow..FileExplorerActions..actSearchPath..Caption
 #: frmFileExplorer.dfm:344
 msgid "&Search Path..."
-msgstr ""
+msgstr "Pesqui&sar Caminho..."
 
 #. FileExplorerWindow..FileExplorerActions..actSearchPath..Hint
 #: frmFileExplorer.dfm:346
 msgid "Search selected path"
-msgstr ""
+msgstr "Pesquisar caminho selecionado"
 
 #. FileExplorerWindow..FileExplorerActions..actNewFolder..Caption
 #: frmFileExplorer.dfm:373
 msgid "Create &New Folder"
-msgstr ""
+msgstr "Criar &Nova Pasta"
 
 #. FileExplorerWindow..FileExplorerActions..actNewFolder..Hint
 #: frmFileExplorer.dfm:375
 msgid "Create new folder"
-msgstr ""
+msgstr "Criar nova pasta"
 
 #. FindResultsWindow..Caption
 #: frmFindResults.dfm:5
 msgid "Find in Files Results"
-msgstr ""
+msgstr "Encontrar nos Resultados de Arquivos"
 
 #. FindResultsWindow..Actions..actReplaceSelected..Caption
 #: frmFindResults.dfm:265
 msgid "Replace Selected Item..."
-msgstr ""
+msgstr "Substituir Item Selecionado"
 
 #. FindResultsWindow..Actions..actReplaceSelected..Hint
 #: frmFindResults.dfm:266
 msgid "Replace selected item..."
-msgstr ""
+msgstr "Substituir item selecioando"
 
 #. FindResultsWindow..Actions..actFileSearch..Caption
 #: frmFindResults.dfm:273
 msgid "&Search..."
-msgstr ""
+msgstr "Bu&scar"
 
 #. FindResultsWindow..Actions..actFileSearch..Hint
 #: frmFindResults.dfm:274
 msgid "New search..."
-msgstr ""
+msgstr "Nova busca..."
 
 #. FindResultsWindow..Actions..actFileRefresh..Hint
 #: frmFindResults.dfm:282
 msgid "Refresh search"
-msgstr ""
+msgstr "Atualizar busca"
 
 #. FindResultsWindow..Actions..actFileAbort..Caption
 #. ToDoWindow..Actions..actFileAbort..Caption
 #: frmFindResults.dfm:289 frmToDo.dfm:563
 msgid "&Abort"
-msgstr ""
+msgstr "&Abortar"
 
 #. FindResultsWindow..Actions..actFileAbort..Hint
 #: frmFindResults.dfm:290
 msgid "Abort search"
-msgstr ""
+msgstr "Abortar busca"
 
 #. FindResultsWindow..Actions..actFilePrint..Hint
 #: frmFindResults.dfm:298
 msgid "Print results..."
-msgstr ""
+msgstr "Imprimir resultados"
 
 #. FindResultsWindow..Actions..actListGotoSelected..Category
 #. FindResultsWindow..Actions..actListContract..Category
 #. FindResultsWindow..Actions..actListExpand..Category
 #: frmFindResults.dfm:304 frmFindResults.dfm:311 frmFindResults.dfm:319
 msgid "List"
-msgstr ""
+msgstr "Listar"
 
 #. FindResultsWindow..Actions..actListGotoSelected..Caption
 #: frmFindResults.dfm:305
 msgid "Goto Selected"
-msgstr ""
+msgstr "Ir para Selecionado"
 
 #. FindResultsWindow..Actions..actListGotoSelected..Hint
 #: frmFindResults.dfm:306
 msgid "Goto match"
-msgstr ""
+msgstr "Ir para encontrado"
 
 #. FindResultsWindow..Actions..actListContract..Caption
 #: frmFindResults.dfm:312
 msgid "&Contract"
-msgstr ""
+msgstr "&Contrair"
 
 #. FindResultsWindow..Actions..actListContract..Hint
 #: frmFindResults.dfm:313
 msgid "Contract all"
-msgstr ""
+msgstr "Contrair Tudo"
 
 #. FindResultsWindow..Actions..actListExpand..Caption
 #: frmFindResults.dfm:320
 msgid "&Expand"
-msgstr ""
+msgstr "&Expandir"
 
 #. FindResultsWindow..Actions..actListExpand..Hint
 #: frmFindResults.dfm:321
 msgid "Expand all"
-msgstr ""
+msgstr "Expandir tudo"
 
 #. FindResultsWindow..Actions..actViewShowContext..Category
 #. FindResultsWindow..Actions..actViewToolBar..Category
@@ -3781,205 +3781,205 @@ msgstr ""
 #: frmPyIDEMain.dfm:2352 frmPyIDEMain.dfm:2361 frmPyIDEMain.dfm:2378
 #: frmPyIDEMain.dfm:2386
 msgid "View"
-msgstr ""
+msgstr "Visualizar"
 
 #. FindResultsWindow..Actions..actViewShowContext..Caption
 #: frmFindResults.dfm:335
 msgid "Show Match Context"
-msgstr ""
+msgstr "Exibir Contexto Encontrado"
 
 #. FindResultsWindow..Actions..actViewShowContext..Hint
 #: frmFindResults.dfm:337
 msgid "View/Hide Context of found text"
-msgstr ""
+msgstr "Visualizar|Ocultar Contexto do texto encontrado"
 
 #. FindResultsWindow..Actions..actFileSave..Caption
 #: frmFindResults.dfm:342
 msgid "&Save..."
-msgstr ""
+msgstr "&Salvar..."
 
 #. FindResultsWindow..Actions..actFileSave..Hint
 #: frmFindResults.dfm:343
 msgid "Save results to file..."
-msgstr ""
+msgstr "Salvar resultados para o arquivo..."
 
 #. FindResultsWindow..Actions..actFileCopy..Hint
 #: frmFindResults.dfm:351
 msgid "Copy results to clipboard"
-msgstr ""
+msgstr "Copiar resultadoos para a Área de Transferência"
 
 #. FindResultsWindow..Actions..actViewToolBar..Caption
 #: frmFindResults.dfm:358
 msgid "Toolbar"
-msgstr ""
+msgstr "Barra de Ferramentas"
 
 #. FindResultsWindow..Actions..actViewToolBar..Hint
 #: frmFindResults.dfm:360
 msgid "View/Hide Toolbar"
-msgstr ""
+msgstr "Visualizar| Ocultar Barra de Ferramentas"
 
 #. FindResultsWindow..Actions..actViewStatusBar..Caption
 #: frmFindResults.dfm:365
 msgid "StatusBar"
-msgstr ""
+msgstr "Barra de Status"
 
 #. FindResultsWindow..Actions..actViewStatusBar..Hint
 #: frmFindResults.dfm:367
 msgid "View/Hide StatusBar"
-msgstr ""
+msgstr "Visualizar|Ocultar Barra de Status"
 
 #. FindResultsWindow..Actions..actViewOptions..Caption
 #. ToDoWindow..Actions..actOptionsConfigure..Hint
 #: frmFindResults.dfm:372 frmToDo.dfm:542
 msgid "Options..."
-msgstr ""
+msgstr "Opições..."
 
 #. FindResultsWindow..Actions..actViewOptions..Hint
 #: frmFindResults.dfm:373
 msgid "Configure Find in Files"
-msgstr ""
+msgstr "Configurar Localizar nos Arquivos"
 
 #. FindResultsWindow..Actions..actReplaceAll..Caption
 #: frmFindResults.dfm:379
 msgid "Replace All Items..."
-msgstr ""
+msgstr "Substituir Todos os Itens"
 
 #. FindResultsWindow..Actions..actReplaceAll..Hint
 #: frmFindResults.dfm:380
 msgid "Replace all items..."
-msgstr ""
+msgstr "Substituir todos os itens"
 
 #. FunctionListWindow..Caption
 #: frmFunctionList.dfm:9
 msgid "Function List"
-msgstr ""
+msgstr "Lista de Funções"
 
 #. FunctionListWindow..pnlHeader..pnlHeaderLeft..lblMethods..Caption
 #. PyIDEMainForm..TBXDockTop..MainMenu..SearchMenu..Caption
 #: frmFunctionList.dfm:127 frmPyIDEMain.dfm:655
 msgid "&Search"
-msgstr ""
+msgstr "Bu&scar"
 
 #. FunctionListWindow..pnlHeader..pnlHeaderRight..lblObjects..Caption
 #: frmFunctionList.dfm:156
 msgid "&Objects"
-msgstr ""
+msgstr "&Objetos"
 
 #. FunctionListWindow..Actions..actEditCopy..Caption
 #. ProjectExplorerWindow..ImmutableProjectActionList..actProjectFileEdit..Caption
 #. PyIDEMainForm..TBXDockTop..MainMenu..EditMenu..Caption
 #: frmFunctionList.dfm:256 frmProjectExplorer.dfm:263 frmPyIDEMain.dfm:548
 msgid "&Edit"
-msgstr ""
+msgstr "&Editar"
 
 #. FunctionListWindow..Actions..actEditCopy..Hint
 #: frmFunctionList.dfm:257
 msgid "Copy procedures to clipboard"
-msgstr ""
+msgstr "Copiar procedures para a Área de Transferência"
 
 #. FunctionListWindow..Actions..actOptionsFont..Caption
 #: frmFunctionList.dfm:264
 msgid "&Font.."
-msgstr ""
+msgstr "&Fonte..."
 
 #. FunctionListWindow..Actions..actOptionsFont..Hint
 #: frmFunctionList.dfm:265
 msgid "Configure font"
-msgstr ""
+msgstr "Configurar fonte"
 
 #. FunctionListWindow..Actions..actViewStart..Caption
 #: frmFunctionList.dfm:271
 msgid "S&tart"
-msgstr ""
+msgstr "Iniciar"
 
 #. FunctionListWindow..Actions..actViewStart..Hint
 #: frmFunctionList.dfm:272
 msgid "Match only from the start"
-msgstr ""
+msgstr "Encontrar somente no início"
 
 #. FunctionListWindow..Actions..actViewAny..Caption
 #: frmFunctionList.dfm:278
 msgid "&Any"
-msgstr ""
+msgstr "Qu&alquer um"
 
 #. FunctionListWindow..Actions..actViewAny..Hint
 #: frmFunctionList.dfm:279
 msgid "Match anywhere"
-msgstr ""
+msgstr "Encontrar qualquer um"
 
 #. FunctionListWindow..Actions..actViewGoto..Caption
 #. ToDoWindow..Actions..actEditGoto..Caption
 #: frmFunctionList.dfm:285 frmToDo.dfm:525
 msgid "&Goto"
-msgstr ""
+msgstr "Ir para"
 
 #. FunctionListWindow..Actions..actViewGoto..Hint
 #: frmFunctionList.dfm:286
 msgid "Goto implementation"
-msgstr ""
+msgstr "Ir para Implementação"
 
 #. MessagesWindow..Caption
 #: frmMessages.dfm:5
 msgid "Messages"
-msgstr ""
+msgstr "Mensagens"
 
 #. MessagesWindow..FGPanel..MessagesView......WideText
 #: frmMessages.dfm:86
 msgid "Message"
-msgstr ""
+msgstr "Mensagem"
 
 #. MessagesWindow..FGPanel..MessagesView......WideText
 #: frmMessages.dfm:102
 msgid "Position"
-msgstr ""
+msgstr "Posição"
 
 #. MessagesWindow..FGPanel..TBToolbar1..BtnPreviousMsgs..Hint
 #. MessagesWindow..MsgsActionList..actPreviousMsgs..Hint
 #: frmMessages.dfm:131 frmMessages.dfm:202
 msgid "Show previous messages"
-msgstr ""
+msgstr "Mostrar mensagens anteriores"
 
 #. MessagesWindow..FGPanel..TBToolbar1..BtnNextMsgs..Hint
 #. MessagesWindow..MsgsActionList..actNextMsgs..Hint
 #: frmMessages.dfm:149 frmMessages.dfm:208
 msgid "Show next messages"
-msgstr ""
+msgstr "Mostrar próximas mensagens"
 
 #. MessagesWindow..MsgsActionList..actClearAll..Caption
 #. WatchesWindow..TBXPopupMenu..mnClearall..Caption
 #: frmMessages.dfm:195 frmWatches.dfm:120
 msgid "&Clear all"
-msgstr ""
+msgstr "Limpar tudo"
 
 #. MessagesWindow..MsgsActionList..actClearAll..Hint
 #: frmMessages.dfm:196
 msgid "Clear all messages"
-msgstr ""
+msgstr "Limpar todas as mensagens"
 
 #. MessagesWindow..MsgsActionList..actPreviousMsgs..Caption
 #: frmMessages.dfm:201
 msgid "&Previous Messages"
-msgstr ""
+msgstr "Mensagens Anteriores"
 
 #. MessagesWindow..MsgsActionList..actNextMsgs..Caption
 #: frmMessages.dfm:207
 msgid "&Next Messages"
-msgstr ""
+msgstr "Próximas Mensage&ns"
 
 #. SpTBXCustomizeFormMod..SpTBXTabControl1..SpTBXTabSheet3..SpTBXLabel2..Caption
 #: frmModSpTBXCustomize.dfm:26
 msgid "Commands:"
-msgstr ""
+msgstr "Comandos:"
 
 #. ProjectExplorerWindow..Caption
 #: frmProjectExplorer.dfm:3
 msgid "Project Explorer"
-msgstr ""
+msgstr "Explorador de Projetos"
 
 #. ProjectExplorerWindow..FGPanel..Panel1..SpTBXDock1..SpTBXToolbar1..Caption
 #: frmProjectExplorer.dfm:108
 msgid "Project Explorer Toolbar"
-msgstr ""
+msgstr "Barra de Ferramentas do Explorador de Projetos"
 
 #. ProjectExplorerWindow..ProjectActionList..actProjectNew..Category
 #. ProjectExplorerWindow..ProjectActionList..actProjectOpen..Category
@@ -4015,7 +4015,7 @@ msgstr ""
 #: frmProjectExplorer.dfm:300 frmProjectExplorer.dfm:308
 #: frmProjectExplorer.dfm:316 frmProjectExplorer.dfm:324
 msgid "Project"
-msgstr ""
+msgstr "Projeto"
 
 #. ProjectExplorerWindow..ProjectActionList..actProjectNew..Caption
 #: frmProjectExplorer.dfm:148
